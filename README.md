@@ -1,4 +1,4 @@
-# SNOARED
+# ⛷ SNOARED
 <i> Need gear where you're going? Look no further than Snoared! </i>
 
 <img src="https://res.cloudinary.com/snoared/image/upload/v1655277184/snoared_1_okvn3u.png" alt="Snoared landing page" width="500" height="350">
